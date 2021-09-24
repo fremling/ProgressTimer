@@ -1,5 +1,6 @@
 module ProgressTimer
 
+export TimingInit, TimingProgress
 using Dates
 
 const sec_len=Dates.Millisecond(Dates.Second(1))
