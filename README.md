@@ -7,7 +7,7 @@ If you want more advanced features please see the package [ProgressMeter](https:
 Activate the package as usual using
 
 ```julia
-using ProgressTimter
+using ProgressTimer
 ```
 
 To start the timer call `TimingInit()` and store the output into a variable
