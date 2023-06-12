@@ -1,7 +1,7 @@
 authors = ["Mikael Fremling <micke.fremling@gmail.com>"]
 name = "ProgressTimer"
 uuid = "9f858d72-1d43-11ec-0cbc-15b5a80c172b"
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
